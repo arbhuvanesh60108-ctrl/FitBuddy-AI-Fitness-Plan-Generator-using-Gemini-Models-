@@ -1,0 +1,6 @@
+{
+  "name": "FitBuddy - AI Workout Planner & FastAPI Backend",
+  "description": "FastAPI backend routing, user input processing, and Gemini AI integration for FitBuddy 7-day personalized workout plans and nutrition tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
